@@ -3,5 +3,5 @@ homepage: "https://www.fraudlogix.com"
 documentation: "https://www.fraudlogix.com/adanalytix/#adanalytix-programmatic"
 versions:
   # Latest Version
-  - sha: 86b00403727742d2780fe1d1225ee79562302138
+  - sha: d9e0ea7b5e3df7cc19640a6024616ea83abfadb2
     changeNotes: Initial release.
